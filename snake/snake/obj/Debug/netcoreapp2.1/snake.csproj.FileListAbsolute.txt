@@ -8,3 +8,4 @@ D:\WORK\workspaseGit\snake\snake\snake\obj\Debug\netcoreapp2.1\snake.AssemblyInf
 D:\WORK\workspaseGit\snake\snake\snake\obj\Debug\netcoreapp2.1\snake.AssemblyInfo.cs
 D:\WORK\workspaseGit\snake\snake\snake\obj\Debug\netcoreapp2.1\snake.dll
 D:\WORK\workspaseGit\snake\snake\snake\obj\Debug\netcoreapp2.1\snake.pdb
+D:\WORK\workspaseGit\snake\snake\snake\obj\Debug\netcoreapp2.1\snake.csprojAssemblyReference.cache
