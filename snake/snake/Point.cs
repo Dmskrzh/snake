@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace snake
 {
@@ -50,8 +52,14 @@ namespace snake
 
         public void Draw()
         {
-        Console.SetCursorPosition(x, y);
+            Console.SetCursorPosition(x, y);
             Console.Write(sym );
+        }
+
+        public void Clear()
+        {
+            sym = ' ';
+            Draw();
         }
 
         public override string ToString()
