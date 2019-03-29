@@ -50,6 +50,11 @@ namespace snake
             }
         }
 
+        public bool IsHit(Point p)
+        { // возвращает true если координаты еды (p) сопадают с координатами головы (this) 
+            return p.x == this.x && p.y == this.y;
+        }
+
         public void Draw()
         {
             Console.SetCursorPosition(x, y);

@@ -4,7 +4,11 @@ using System.Text;
 
 namespace snake
 {
-    class Emploee
+    enum Direction
     {
+        LEFT,
+        RIGHT,
+        UP,
+        DOWN
     }
 }
